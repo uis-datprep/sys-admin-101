@@ -1,0 +1,10 @@
+import sys
+
+PHONE_NUMBER = "104-031-5693"
+def main(argv):
+	result = 8.81*float(argv[0])
+	print(round(result,2))
+
+
+if __name__ == "__main__":
+	main(sys.argv[1:])
