@@ -1,4 +1,4 @@
-# Linux System Administration 101
+# UiS DATRPEP - Linux System Administration 101
 
 ## Introduction
 This is the course materials for Linux System Administration 101 in UiS. The purpose of this course is making student familiar working in the terminal environment and Linux system.
